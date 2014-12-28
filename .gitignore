@@ -52,3 +52,11 @@ docs/_build/
 
 # PyBuilder
 target/
+
+
+# OS Stuff:
+.DS_Store
+
+# Project specific test files
+.jpg
+.mp3
